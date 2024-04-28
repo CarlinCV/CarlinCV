@@ -4,4 +4,6 @@
 
 - Hoje, eu programo algumas linguagens, não possuo conhecimento 100% nas principais e mais usadas e conhecidas, mas estou no caminho. Então é isso, esse é meu README, valeu!
 
+![](https://komarev.com/ghpvc/?username=CarlinCV)
+
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord Icon" width="20" height="20"> [carlosvictor.](https://discord.com/users/945080789530468372)
