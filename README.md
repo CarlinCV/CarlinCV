@@ -3,8 +3,9 @@ Desenvolvedor apaixonado por tecnologia e programação desde criança, com expe
 
 ## Ferramentas e Tecnologias
 <div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>  
-  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" width="40" height="40" />
+  
+  <img loading="lazy" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>  
+  <img loading="lazy" alt="Sublime Text" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" width="40" height="40" />
   <br>
   <img loading="lazy" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img loading="lazy" alt="DiscordJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" width="40" height="40" />
@@ -16,18 +17,20 @@ Desenvolvedor apaixonado por tecnologia e programação desde criança, com expe
   <img loading="lazy" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />
   <img loading="lazy" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img loading="lazy" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
+  <img loading="lazy" alt="Pawn" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" width="30" height="40" />
 
-          
+  <br>
   <img loading="lazy" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" heigth="40" />
   <img loading="lazy" alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" heigth="40" />
-  <img loading="lazy" alt="Pawn" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" width="30" height="40" />
+  
 </div>
 
 ## Estátisticas
 <div>
-  <a href="https://github.com/CarlinCV">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlinCV&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlinCV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  ![CarlinCV's Stats](https://github-readme-stats.vercel.app/api?username=CarlinCV&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  
+  ![CarlinCV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlinCV&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+  
 </div>
 
 ## Contatos
@@ -35,5 +38,5 @@ Desenvolvedor apaixonado por tecnologia e programação desde criança, com expe
   <a href="https://discord.com/users/945080789530468372" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=carlosvictor."</a>
 </div>
 
-## Informações
+## Extras
 ![](https://komarev.com/ghpvc/?username=CarlinCV&label=Visualizações&style=for-the-badge&abbreviated=true)
