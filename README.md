@@ -1,9 +1,39 @@
-## 👋 Olá, meu nome é Carlos Victor
+## 👋 Olá, me chamo Carlos Victor!
+Desenvolvedor apaixonado por tecnologia e programação desde criança, com experiência em linguagens diversas e desenvolvimento de sistemas. Tenho foco em projetos de games e servidores, além de sempre buscar inovação e soluções eficazes. Atualmente, curso Gestão da Tecnologia da Informação e estou sempre aprimorando minhas habilidades em TI.
 
-- Meu inicio na programação começou quando eu tinha apenas 8 anos de idade e sonhava em ter um servidor de Minecraft e na época sonhava em programar um servidor com meus próprios plugins ao invés de ficar vivendo de plugins públicos (nada contra, mas era horrível quando eu queria alterar algo e não podia).
+## Ferramentas e Tecnologias
+<div>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>  
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" width="40" height="40" />
+  <br>
+  <img loading="lazy" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img loading="lazy" alt="DiscordJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" width="40" height="40" />
+  <img loading="lazy" alt="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" height="40" />
+  <img loading="lazy" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+  
+  <img loading="lazy" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+  <img loading="lazy" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+  <img loading="lazy" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />
+  <img loading="lazy" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img loading="lazy" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
 
-- Hoje, eu programo algumas linguagens, não possuo conhecimento 100% nas principais e mais usadas e conhecidas, mas estou no caminho. Então é isso, esse é meu README, valeu!
+          
+  <img loading="lazy" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" heigth="40" />
+  <img loading="lazy" alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" heigth="40" />
+  <img loading="lazy" alt="Pawn" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" width="30" height="40" />
+</div>
 
-![](https://komarev.com/ghpvc/?username=CarlinCV)
+## Estátisticas
+<div>
+  <a href="https://github.com/CarlinCV">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlinCV&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlinCV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord Icon" width="20" height="20"> [carlosvictor.](https://discord.com/users/945080789530468372)
+## Contatos
+<div>
+  <a href="https://discord.com/users/945080789530468372" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=carlosvictor."</a>
+</div>
+
+## Informações
+![](https://komarev.com/ghpvc/?username=CarlinCV&label=Visualizações&style=for-the-badge&abbreviated=true)
