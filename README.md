@@ -1,6 +1,8 @@
 ## 👋 Olá, me chamo Carlos Victor!
 Desenvolvedor apaixonado por tecnologia desde criança, com vasta experiência em diversas linguagens de programação e desenvolvimento de sistemas. Focado em projetos de games e servidores, busco constantemente inovação e soluções eficazes. Atualmente, curso **Gestão da Tecnologia da Informação** e estou sempre aprimorando minhas habilidades em TI.
 
+<img alt="Green Coding" src="https://i.imgur.com/pruOXJO.png" align="right" width="500px"/>
+
 ### Ferramentas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-32CD32?style=flat&logo=educative&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-32CD32?style=flat&logo=sublime-text&logoColor=white)
